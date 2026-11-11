@@ -1,0 +1,7 @@
+Name: Joshua Cana
+ID: 1002313477
+1. To be honest, I actually wrote my own code but I liked Kiet's better so we used his :) We primarily used my raspberry pi, and I helped setup the github page, do tests, and transfer files from the Pi to our computers (although now I realize we didnt need to do what we did but oh well!) I am a little sad we didnt get to use mine, but his was superior in that it had choices on what the user could do (mine was more of a linear path.) But I still believe I was an active team member through rewriting bits of code, and confirming everything works, and with setup!
+2. None of it was overly difficult. However, getting our heads around the circuitry was a bit of a challange, and also for some reason the code was made so that the light would turn on when it was NORMAL which was not correct ;-;
+3. We realized, through testing, that we had to swap our 1's and 0's in order to get the light to do what we wanted. We also forgot to make a csv file, but thankfully Kiet put in a warning to tell us if it was missing, which helped us. Without testing we would not have found these issues.
+4. I would say problem solving. A lot of the work isn't super difficult, but you have to want to solve the problem and think of solutions.
+5. I would have wanted to spend more time with the raspberry time, which I will definetely do on my own. It's a very cool and powerful device!
