@@ -1,0 +1,25 @@
+# Deliverable 7 – Individual Reflection
+
+**Name:** Kiet Nguyen  
+**Student ID:** 1002329743  
+**Course:** CSE 1106
+
+**1. What was your primary contribution to the project?**
+
+My main contribution was helping write and test the C program, and also building the circuit. I also helped check the user input and make sure the program worked correctly on the Raspberry Pi. 
+
+**2. What was the most challenging technical problem your team encountered?**
+
+The most challenging problem was making sure the program worked correctly with the hardware. We had to check the code and LED connections to make sure everything worked as expected.
+
+**3. How did your team use testing or debugging to solve a problem?**
+
+We tested the program with different inputs and compared the actual outputs with the expected results. When we found an error, we checked the code, fixed the problem, and tested it again.
+
+**4. Which skills from CSE 1106 were most useful?**
+
+The most useful skills were C programming, debugging, testing, and using the Raspberry Pi. These skills helped us complete the project and understand how software works with hardware.
+
+**5. What would you improve if you had more time?**
+
+If we had more time, I would double check the code more carefully
